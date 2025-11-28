@@ -104,3 +104,21 @@ Skills Practiced
 - Differentiating offensive vs defensive roles.  
 - Linking roles to relevant learning paths.  
 - Recognizing responsibilities and required skills for each career.
+
+
+Cyber Security Roles Overview
+| Role               | What They Do                                                                 | Typical Tools/Skills                          |
+|--------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
+| **Security Analyst** | Monitor networks, investigate alerts, write reports, recommend improvements. | SIEM, log analysis, incident response basics  |
+| **Security Engineer** | Design and maintain firewalls, IDS/IPS, and secure systems.                  | Firewalls, IDS/IPS, vulnerability scanners    |
+| **Incident Responder** | Act quickly during attacks, contain threats, recover systems.                | IR frameworks, forensic tools, malware removal|
+| **Forensics Examiner** | Collect and analyze digital evidence to investigate crimes or breaches.       | Forensic imaging tools, log analysis          |
+| **Malware Analyst** | Reverse-engineer malware, study behavior, document findings.                  | Assembly, C, sandboxing, static/dynamic analysis |
+| **Penetration Tester** | Ethically hack systems to find vulnerabilities before attackers do.           | Metasploit, Burp Suite, Nmap, Gobuster        |
+| **Red Teamer**     | Simulate real attackers to test detection and response capabilities.          | Adversary emulation, persistence techniques   |
+| **SOC Analyst (L1)** | Triage alerts in a Security Operations Center, escalate incidents.            | SIEM dashboards, threat intelligence feeds    |
+
+In Simple Words
+- Offensive roles (Pentester, Red Teamer) → act like hackers to find weaknesses.
+- Defensive roles (Analyst, Engineer, Incident Responder) → protect systems, detect attacks, and respond.
+- Specialist roles (Malware Analyst, Forensics Examiner) → dig deep into evidence or malicious code.
